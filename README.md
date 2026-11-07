@@ -6,7 +6,7 @@ This project allows users to generate random passwords with customizable length 
 
 ## 🚀 Live Demo
 
-Coming Soon!
+[click here to use Password Generator](https://mdashifreja23-lgtm.github.io/Password-Generator/)
 
 ## 📸 Preview
 
